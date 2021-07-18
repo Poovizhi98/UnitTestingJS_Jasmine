@@ -1,4 +1,4 @@
-# UnitTestingJS_Jasmine
+# UnitTesting JavaScript with Jasmine
 
 Udemy course: Unit testing JavaScript with Jasmine
 
